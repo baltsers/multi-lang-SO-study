@@ -1,0 +1,13 @@
+id,title,vote,answer,view_num,link,time,author,reputation,combination,issues being discuss,solution,question contain code,Solution type,Solved,answer or highest vote,Symptoms ,SDLC,Special case,Taxonomy_Second,Taxonomy_Third
+3775674,Is it possible to build a interactive C shell?,15,3,9170,https://stackoverflow.com/questions/3775674/is-it-possible-to-build-a-interactive-c-shell,2010-09-23 05:37:06,Mino Yarre,151,c++|java|python|shell,"I'm just wondering if this is possible using either (Python, Java or C)? I'm looking for something like IPython for Python.","Ch is one popular example
+CINT is another(14 votes)",,,?,14,Interfacing,Design,,Interfacing choice,
+4132066,Python based build tools,14,1,2029,https://stackoverflow.com/questions/4132066/python-based-build-tools,2010-11-09 09:20:17,costy.petrisor,723,c#|c++|java|python,"Looking for a build system where:
+includes and libraries (for C/ C++, Java, C#, Python)
+use different versions of compilers and support different target OS and CPU architectures
+use SWIG to support wrapper generation for C#, Python, Lua, Java etc.
+more then just Debug and Release configurations
+consider project tracking.",,,,?,3,Build,Design,,,
+3839216,how to write a desktop application which uses HTML and CSS for user interface and python/perl/c++/java for the processing?,11,10,4412,https://stackoverflow.com/questions/3839216/how-to-write-a-desktop-application-which-uses-html-and-css-for-user-interface-an,2010-10-01 12:41:40,balki,21.1k,c++|java|javascript|python,"How do I use rendering engines like gecko, webkit etc in python? Which one will be more suited to work with python?.Is there any 'only html/css' rendering engine without javascript?","Find a lightweight server, or better - embed one in Your application. That's it.
+Java has classes for serving http. Python does it well also.(0 vote) (old answer)",No,"SA2.1, SB1",Yes,0,Language choice,Design,,,
+143388,Java: Scripting language (macro) to embed into a Java desktop application,7,9,3099,https://stackoverflow.com/questions/143388/java-scripting-language-macro-to-embed-into-a-java-desktop-application,2008-09-27 10:42:07,Eugene Yokota,88.3k,c++|java|javascript|python,"Which language library is recommended to build in a scripting language to make the author's Java graphics application programmable?
+The target audience are probably not hardcore programmers.","Choose jython (Python), which is easy to learn (9 votes)",,,?,9,Language choice,Design,,,
