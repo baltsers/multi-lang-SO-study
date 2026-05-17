@@ -6,7 +6,7 @@ Project artifact for:
 
 - Original artifact URL: <https://bitbucket.org/hcailab/somlstudy>
 - Imported via `pubs2github` from the publications page
-- Downloader: `git` — Cloned https://bitbucket.org/hcailab/somlstudy.git (114 files)
+- Downloader: `git` — existing repo/ (181 files)
 
 
 This repository was created automatically. The contents under this
